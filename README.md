@@ -1,6 +1,13 @@
-## Overview
-Two course assignments:
-- **A1: Implicit Fields.** From point clouds to surfaces using an MLP decoder; losses tailored for occupancy/SDF signals.
-- **A2: Diffusion (2D).** Train a noise-prediction network and sample denoised points; visualize trajectories and final distributions.
+## Homework 1 (Supervised)
+- Data prep (cleaning, scaling).
+- Baselines (Logistic/Linear Regression, SVM or RF as needed).
+- Metrics: accuracy/F1 (classification) or RMSE (regression).
 
-**Reports:** see `docs/`.
+**Report:** `docs/hw1_report.pdf`
+
+## Homework 2 (Unsupervised / Statistical)
+- PCA and visualization.
+- Clustering: k-Means / Hierarchical, with selection criteria.
+- Short statistical summary of clusters.
+
+**Report:** `docs/hw2_report.pdf`
